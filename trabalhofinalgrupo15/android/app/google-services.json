@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034560455569",
+    "project_id": "trabalhofinalgrupo15-cb86a",
+    "storage_bucket": "trabalhofinalgrupo15-cb86a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034560455569:android:0c5609adfd2a0d85409030",
+        "android_client_info": {
+          "package_name": "br.com.grupo15.trabalhofinalgrupo15"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034560455569-ro44upt8cshtprht8oa7mhmft96ihsvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXmE-Z_v17zDfXx31Wdf96ZgyL3Z2apWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034560455569-ro44upt8cshtprht8oa7mhmft96ihsvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
