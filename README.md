@@ -5,7 +5,7 @@ Guilherme Asevedo de Amorim R.A.: 42015274       email:guilherme27amorim@gmail.c
 
 
 # Requisitos Cumpridos:
-1- Cadastro(Cadastro de usuários e de solicitações)
-2- Login
-3- Informações Gerais
-4 - Acompanhamento de serivço(Ainda não finalizado, na tela que lista as solicitações é possivel visualizar o andamento da solicitação)
+# 1- Cadastro(Cadastro de usuários e de solicitações)
+# 2- Login
+# 3- Informações Gerais
+# 4 - Acompanhamento de serivço(Ainda não finalizado, na tela que lista as solicitações é possivel visualizar o andamento da solicitação)
