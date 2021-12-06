@@ -4,7 +4,7 @@ Guilherme de Almeida Oliveira R.A.: 42014935 email: guilhermecedaspy@gmail.com(p
 Guilherme Asevedo de Amorim R.A.: 42015274       email:guilherme27amorim@gmail.com(não participou da especialização do google)
 
 
-Requisitos Cumpridos:
+# Requisitos Cumpridos:
 1- Cadastro(Cadastro de usuários e de solicitações)
 2- Login
 3- Informações Gerais
